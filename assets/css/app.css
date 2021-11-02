@@ -1,0 +1,17 @@
+@import "./phoenix.css";
+
+.alert {
+  padding: 15px;
+  margin-bottom: 20px;
+  border: 1px solid transparent;
+  border-radius: 4px;
+}
+
+.invalid-feedback {
+  color: #454B4E;
+  display: block;
+  margin: -1rem 0 2rem;
+}
+.body{
+    color: #D3E5EF;
+}
